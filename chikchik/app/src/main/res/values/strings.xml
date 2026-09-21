@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ChikChik</string>
+
+    <string name="camera_permission_message">برای نمایش دوربین، به اجازه‌ی دسترسی به دوربین نیاز است.</string>
+    <string name="camera_permission_button">اجازه‌ی دسترسی</string>
+
+    <string name="pick_hint">یک عکس مرجع انتخاب کنید تا روی دوربین نمایش داده شود.</string>
+    <string name="pick_image">انتخاب عکس از گالری</string>
+    <string name="gallery">گالری</string>
+    <string name="back">بازگشت</string>
+    <string name="pick_reference">انتخاب عکس مرجع</string>
+    <string name="change_reference">تغییر عکس</string>
+    <string name="choose_timer">انتخاب تایمر</string>
+    <string name="opacity">شفافیت</string>
+    <string name="lock">قفل</string>
+    <string name="locked">قفل است</string>
+    <string name="reset">ریست</string>
+    <string name="image_load_failed">بارگذاری عکس ناموفق بود. ممکن است فایل خراب، پشتیبانی‌نشده یا بسیار بزرگ باشد.</string>
+    <string name="shutter">گرفتن عکس</string>
+    <string name="capture_failed">گرفتن عکس ناموفق بود. دوباره تلاش کنید.</string>
+    <string name="retake">گرفتن دوباره</string>
+    <string name="save">ذخیره</string>
+    <string name="share">اشتراک‌گذاری</string>
+    <string name="share_chooser_title">اشتراک‌گذاری عکس</string>
+    <string name="photo_saved">عکس در آلبوم ChikChik ذخیره شد.</string>
+    <string name="photo_save_failed">ذخیره‌ی عکس ناموفق بود. فضای حافظه را بررسی کنید و دوباره تلاش کنید.</string>
+    <string name="flash">فلش</string>
+    <string name="flash_off">خاموش</string>
+    <string name="flash_on">روشن</string>
+    <string name="flash_auto">خودکار</string>
+    <string name="timer">تایمر</string>
+    <string name="timer_off">خاموش</string>
+    <string name="timer_seconds">%d ثانیه</string>
+    <string name="zoom">زوم</string>
+    <string name="reference">مرجع</string>
+    <string name="switch_camera">تعویض دوربین</string>
+    <string name="storage_permission_denied">برای ذخیره‌ی عکس در این نسخه از اندروید، اجازه‌ی دسترسی به حافظه لازم است.</string>
+    <string name="camera_unavailable">دوربین در دسترس نیست. ممکن است برنامه‌ی دیگری از آن استفاده کند؛ آن را ببندید و دوباره وارد شوید.</string>
+    <string name="gallery_unavailable">گالری در این دستگاه در دسترس نیست.</string>
+    <string name="share_failed">اشتراک‌گذاری عکس ناموفق بود.</string>
+    <string name="open_settings_failed">تنظیمات برنامه باز نشد. لطفاً دسترسی دوربین را از تنظیمات گوشی فعال کنید.</string>
+</resources>
