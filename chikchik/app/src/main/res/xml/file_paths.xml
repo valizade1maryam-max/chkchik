@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<paths>
-    <!-- Temporary captured photos (see PhotoStorage.kt), shared via the Share button. -->
-    <cache-path name="captures" path="captures/" />
-    <!-- Stage 20: Explore photo downloaded to become the reference image (see PhotoStorage.kt /
-         RemoteImageLoader.kt). Exposed as a content:// Uri so it can flow through the exact
-         same reference pipeline (loadBitmap, pose detection) as a Photo Picker image. -->
-    <cache-path name="explore_reference" path="explore_reference/" />
-</paths>

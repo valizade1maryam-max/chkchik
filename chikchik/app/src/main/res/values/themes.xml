@@ -1,5 +1,0 @@
-<resources>
-    <style name="Theme.ChikChik" parent="android:Theme.Material.NoActionBar">
-        <item name="android:windowBackground">@color/black</item>
-    </style>
-</resources>
